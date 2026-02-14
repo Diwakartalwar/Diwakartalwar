@@ -1,166 +1,168 @@
-<!-- COLORFUL ANIMATED HEADER -->
+<!-- FREAK LEVEL INTERACTIVE PROFILE -->
+
+<!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Diwakar%20Talwar&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Django%20Engineer%20%7C%20Dashboard%20Architect&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff0080,50:7928ca,100:00f2ff&text=DIWAKAR%20TALWAR&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 ---
 
-<!-- ANIMATED TYPING -->
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=36BCF7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+Engineer;Data+Dashboard+Specialist;Building+Real+World+Systems;Future+Elite+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&color=00F2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Django+System+Architect;Data+Dashboard+Engineer;Python+Developer;Building+Elite+Systems"/>
 </p>
 
 ---
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL PANEL -->
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/diwakartalwar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-00f2ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="https://huggingface.co/">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<a href="https://instagram.com/diwakartalwar">
+<img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://huggingface.co/chibi-ai">
+<img src="https://img.shields.io/badge/HuggingFace-00f2ff?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/diwakartalwar">
+<img src="https://img.shields.io/badge/Discord-7928ca?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<a href="https://open.spotify.com/user/31zlwxfqnrcfisksoaaxavi33psu">
+<img src="https://img.shields.io/badge/Spotify-00f2ff?style=for-the-badge&logo=spotify&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEW COUNTER -->
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=diwakartalwar&style=for-the-badge&color=brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=diwakartalwar&style=for-the-badge&color=00f2ff"/>
 </p>
 
 ---
 
-# ABOUT ME
+# SYSTEM PROFILE
 
 ```yaml
 Name: Diwakar Talwar
+
 Role: Full Stack Developer
 
-Specializations:
-  - Django Development
-  - Dashboard Systems
-  - Backend Engineering
-  - Data Analytics
+Stack:
+  - Python
+  - Django
+  - JavaScript
+  - SQL
 
-Goal:
-  Become elite software engineer
+Specialization:
+  - Dashboard Architecture
+  - Backend Systems
+  - Data Visualization
 
-Focus:
-  Building real-world systems
+Status: ACTIVE
 ```
 
 ---
 
-# TECH STACK
+# TECH MATRIX
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,sqlite&theme=dark"/>
 
 </p>
 
 ---
 
-# GITHUB STATS
+# LIVE SPOTIFY PLAYER
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31zlwxfqnrcfisksoaaxavi33psu&cover_image=true&theme=novatorem"/>
+</p>
+
+---
+
+# GITHUB STATS CORE
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakartalwar&show_icons=true&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=diwakartalwar&show_icons=true&theme=tokyonight&border_radius=15"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakartalwar&layout=compact&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakartalwar&layout=compact&theme=tokyonight&border_radius=15"/>
 
 </p>
 
 ---
 
-# STREAK STATS
+# CONTRIBUTION STREAK
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=diwakartalwar&theme=radical"/>
+<img src="https://streak-stats.demolab.com/?user=diwakartalwar&theme=tokyonight&border_radius=15"/>
 </p>
 
 ---
 
-# ACTIVITY GRAPH
+# LIVE ACTIVITY GRAPH
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakartalwar&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakartalwar&theme=tokyo-night&radius=15"/>
 </p>
 
 ---
 
-# TROPHIES
+# ACHIEVEMENT SYSTEM
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diwakartalwar&theme=radical&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diwakartalwar&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# CONTRIBUTION SNAKE
+# CONTRIBUTION SNAKE (LIVE)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# CURRENT SYSTEM STATUS
+# SYSTEM STATUS
 
 ```diff
-+ Building Django Systems
-+ Creating Dashboard Architectures
-+ Preparing for MCA
-+ Improving Backend Skills
++ Backend Systems: ONLINE
++ Dashboard Architecture: ONLINE
++ Django Development: ONLINE
++ Skill Growth: ACTIVE
++ Mission Progress: ONGOING
 ```
 
 ---
 
-# DEVELOPMENT PHILOSOPHY
+# DEV PHILOSOPHY
 
 ```
-Build real systems
-Ship projects
-Improve daily
-Stay consistent
+while(alive) {
+    learn();
+    build();
+    improve();
+}
 ```
 
 ---
 
-# SPOTIFY STATUS (Optional setup needed)
+<!-- FOOTER -->
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-</p>
-
----
-
-# COOL DEV QUOTE
-
-> First, solve the problem. Then, write the code.
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00f2ff,50:7928ca,100:ff0080&section=footer"/>
 </p>
