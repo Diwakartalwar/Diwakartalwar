@@ -1,172 +1,166 @@
-<!-- LEVEL 10000 GITHUB PROFILE -->
+<!-- COLORFUL ANIMATED HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=200&section=header&text=Diwakar%20Talwar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Django+Engineer;Python+Developer;Data+Dashboard+Architect;Building+Real+World+Systems;Future+Elite+Software+Engineer"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=diwakartalwar&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/diwakartalwar?style=for-the-badge&color=00F7FF"/>
-<img src="https://img.shields.io/github/stars/diwakartalwar?style=for-the-badge&color=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Diwakar%20Talwar&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Django%20Engineer%20%7C%20Dashboard%20Architect&descAlignY=60"/>
 </p>
 
 ---
 
-# SYSTEM.OUT::WHOAMI
+<!-- ANIMATED TYPING -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=36BCF7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+Engineer;Data+Dashboard+Specialist;Building+Real+World+Systems;Future+Elite+Software+Engineer"/>
+</p>
+
+---
+
+<!-- SOCIAL BADGES -->
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/diwakartalwar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=diwakartalwar&style=for-the-badge&color=brightgreen"/>
+</p>
+
+---
+
+# ABOUT ME
 
 ```yaml
 Name: Diwakar Talwar
 Role: Full Stack Developer
-Primary Stack: Python, Django, JavaScript
-Specialization: Data Dashboards, Backend Systems
-Goal: Become Elite Software Engineer
-Current Focus:
-  - Django Systems
-  - Dashboard Architecture
-  - Research Grade Projects
-  - MCA Preparation
+
+Specializations:
+  - Django Development
+  - Dashboard Systems
+  - Backend Engineering
+  - Data Analytics
+
+Goal:
+  Become elite software engineer
+
+Focus:
+  Building real-world systems
 ```
 
 ---
 
-# CONNECT.NODE
-
-<p align="left">
-<a href="https://www.linkedin.com/in/diwakartalwar/">
-<img src="https://img.shields.io/badge/LINKEDIN-DIWAKAR%20TALWAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-# TECH.STACK()
-
-## LANGUAGES
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql"/>
-</p>
-
-## FRAMEWORKS
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,git,github,vscode"/>
-</p>
-
-## DATA + ANALYTICS
-
-<p>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-</p>
-
----
-
-# FEATURED.SYSTEMS
-
-## HEALTH DASHBOARD SYSTEM
-
-Full stack Django dashboard system.
-
-Features:
-
-- Real time data visualization  
-- Interactive dashboard  
-- Backend processing engine  
-- Modular architecture  
-
----
-
-## FINANCIAL SIMULATION ENGINE
-
-Barrier option pricing simulator.
-
-Features:
-
-- Mathematical modeling  
-- Python computation engine  
-- Financial analysis system  
-
----
-
-## DATA DASHBOARD SYSTEMS
-
-Advanced dashboards built using Power BI.
-
-Features:
-
-- Interactive visualization  
-- Conditional filtering  
-- Analytical dashboards  
-
----
-
-# GITHUB.METRICS()
+# TECH STACK
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diwakartalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakartalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,sqlite"/>
+
 </p>
 
 ---
 
-# CONTRIBUTION.STREAK()
+# GITHUB STATS
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=diwakartalwar&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diwakartalwar&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakartalwar&layout=compact&theme=radical"/>
+
 </p>
 
 ---
 
-# ACTIVITY.GRAPH()
+# STREAK STATS
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakartalwar&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=diwakartalwar&theme=radical"/>
 </p>
 
 ---
 
-# TROPHY.SYSTEM()
+# ACTIVITY GRAPH
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diwakartalwar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakartalwar&theme=react-dark"/>
 </p>
 
 ---
 
-# DEVELOPMENT.PHILOSOPHY
+# TROPHIES
 
-```
-build > talk
-systems > tutorials
-execution > ideas
-consistency > motivation
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=diwakartalwar&theme=radical&row=1"/>
+</p>
+
+---
+
+# CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# CURRENT SYSTEM STATUS
+
+```diff
++ Building Django Systems
++ Creating Dashboard Architectures
++ Preparing for MCA
++ Improving Backend Skills
 ```
 
 ---
 
-# CURRENT.MISSION
+# DEVELOPMENT PHILOSOPHY
 
 ```
-→ Build elite developer skillset
-→ Create high quality systems
-→ Develop powerful portfolio
-→ Become top tier software engineer
+Build real systems
+Ship projects
+Improve daily
+Stay consistent
 ```
 
 ---
 
-# CONTRIBUTION.SNAKE
+# SPOTIFY STATUS (Optional setup needed)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
 </p>
 
 ---
 
+# COOL DEV QUOTE
+
+> First, solve the problem. Then, write the code.
+
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
 </p>
