@@ -85,14 +85,6 @@ Status: ACTIVE
 
 ---
 
-# LIVE SPOTIFY PLAYER
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31zlwxfqnrcfisksoaaxavi33psu&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
 # GITHUB STATS CORE
 
 <p align="center">
@@ -124,14 +116,6 @@ src="https://github-readme-stats-ashen-nine-15.vercel.app/api/top-langs/?usernam
 
 ---
 
-# ACHIEVEMENT SYSTEM
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diwakartalwar&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-</p>
-
----
 
 # CONTRIBUTION SNAKE (LIVE)
 
