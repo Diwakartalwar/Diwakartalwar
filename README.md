@@ -98,7 +98,7 @@ Status: ACTIVE
 <p align="center">
 
 <picture>
-<img src="https://github-readme-stats-ashen-nine-15.vercel.app/api?username=diwakartalwar&show_icons=true&theme=transparent)">
+<img src="https://github-readme-stats-ashen-nine-15.vercel.app/api?username=diwakartalwar&show_icons=true)">
 </picture>
 </p>
 
