@@ -97,10 +97,14 @@ Status: ACTIVE
 
 <p align="center">
 
-<picture>
-<img src="https://github-readme-stats-ashen-nine-15.vercel.app/api?username=diwakartalwar&show_icons=true)">
-</picture>
+<img height="180em"
+src="https://github-readme-stats-ashen-nine-15.vercel.app/api?username=diwakartalwar&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9"/>
+
+<img height="180em"
+src="https://github-readme-stats-ashen-nine-15.vercel.app/api/top-langs/?username=diwakartalwar&layout=compact&theme=tokyonight&border_radius=20&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
 </p>
+
 
 ---
 
